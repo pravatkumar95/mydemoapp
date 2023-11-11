@@ -1,0 +1,4 @@
+# ignore css file
+
+*.css
+*.html
